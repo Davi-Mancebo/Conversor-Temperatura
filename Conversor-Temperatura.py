@@ -27,7 +27,7 @@ Escolha: """)).strip().upper()[0]
             print(f'{f}°F')
             sleep(3)
         else:
-            print('\nEscolha invalida!!')
+            print('\nEscolha invalidaaaa!!')
             sleep(0.3)
         print('==' * 20)
 
